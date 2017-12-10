@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dd11.jpg</filename>
+	<path>C:\Users\DavidYardimian\artificialIntel\tensorflowdemo\train\dd11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dunkin donuts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>55</ymin>
+			<xmax>139</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
